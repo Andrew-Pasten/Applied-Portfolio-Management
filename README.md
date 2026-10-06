@@ -317,7 +317,6 @@ Start with this README, then explore the reports and supporting models.
 | [JPM valuation model](models/jpm-valuation.xlsx) | Total-payout valuation, scenarios and sensitivity analysis. |
 | [Fixed-income and style analysis](models/fixed-income-style-analysis.xlsx) | Historical returns, volatility, correlations and fund inputs. |
 
-Editable Word reports: [Portfolio report](reports/editable/portfolio-report.docx) · [JPM research](reports/editable/jpm-equity-research.docx).
 
 ### Reading and Reproducibility
 
